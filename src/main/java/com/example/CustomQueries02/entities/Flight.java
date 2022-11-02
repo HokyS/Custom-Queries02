@@ -50,8 +50,6 @@ public class Flight {
     public Snippet.Status getStatus() {
         return status;
     }
-
-    public void setStatus(Snippet.Status status) {
-        this.status = status;
+    public void setStatus(Status status) {
     }
 }
